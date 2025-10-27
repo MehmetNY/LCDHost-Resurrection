@@ -5,4 +5,4 @@ The purpose of this fork is to make this program, originally developed for the l
 The original source can be found here: https://github.com/linkdata/LCDHost
 
 
-WIP
+Status: WIP
